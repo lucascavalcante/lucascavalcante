@@ -25,15 +25,6 @@ A full data pipeline analyzing the impact of the most aggressive monetary tighte
  
 ---
  
-### 📊 [historical-valuation-tracker](https://github.com/lucascavalcante/historical-valuation-tracker)
-**Are US equities expensive or cheap — relative to their own history?**
- 
-A valuation dashboard covering the Magnificent 7 and select ETFs (SPY, QQQ), comparing current multiples and price levels against historical averages. Built to answer one specific question: is this asset priced high or low relative to where it has historically traded? Not a price prediction. Not a dismissal of long-term growth trends. Just context.
- 
-`Python` `yfinance` `FRED API` `Parquet` `Tableau Public`
- 
----
- 
 ### ⚽ [world-cup-generations](https://github.com/lucascavalcante/world-cup-generations)
 **The one event every father watches with his son for the first time — twice.**
  
